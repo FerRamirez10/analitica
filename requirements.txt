@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+joblib
+dash
+plotly
+requests
+pydantic
+prophet
